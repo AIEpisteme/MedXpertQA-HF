@@ -74,7 +74,7 @@ We evaluate 17 leading proprietary and open-source LMMs and LLMs including advan
 1. Clone the Repository:
 
 ```
-git clone https://github.com/TsinghuaC3I/MedXpertQA
+git clone https://github.com/AIEpisteme/MedXpertQA-HF
 cd MedXpertQA/eval
 ```
 
