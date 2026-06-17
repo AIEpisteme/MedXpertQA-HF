@@ -1,6 +1,5 @@
 <div align="center">
 # MedXpertQA: Benchmarking Expert-Level Medical Reasoning and Understanding
-# This is fork of MedXpertQA
 
 [![Static Badge](https://img.shields.io/badge/arxiv-2501.18362-ff0000?style=for-the-badge&labelColor=000)](https://arxiv.org/abs/2501.18362)  [![Static Badge](https://img.shields.io/badge/huggingface-fcd022?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/datasets/TsinghuaC3I/MedXpertQA)  [![Static Badge](https://img.shields.io/badge/leaderboard-steelblue?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://medxpertqa.github.io)  [![Static Badge](https://img.shields.io/badge/license-mit-teal?style=for-the-badge&labelColor=000)](https://github.com/TsinghuaC3I/MedXpertQA/blob/main/LICENSE)
 
@@ -54,7 +53,7 @@ The right side compares typical examples from MedXpertQA MM and a traditional be
 <p align="center">
    <img src="figs/diversity.png" alt="MedXpertQA spans diverse human body systems, medical tasks, and question topics." width="90%">
 </p>
-
+# This is fork of MedXpertQA
 - **Mitigating Data Leakage:** We perform data synthesis to mitigate data leakage risk and conduct multiple rounds of expert reviews to ensure accuracy and reliability.
 - **Reasoning-Oriented Evaluation:** Medicine provides a rich and representative setting for assessing reasoning abilities beyond mathematics and code. We develop a reasoning-oriented subset to facilitate the assessment of o1-like models.
 
